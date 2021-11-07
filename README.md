@@ -1,6 +1,6 @@
 # firebase_crud
 
-A new Flutter application.
+A flutter application integrated with firebase
 
 ## Getting Started
 
